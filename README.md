@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Jesús López, I am studying the Master's in Economic Theory.
+My name is Jesús López
 
 - 🔭 I’m currently working on IV-panel regression and economics
 - 🌱 I’m currently learning Bayesian Statistics and Game Theory
